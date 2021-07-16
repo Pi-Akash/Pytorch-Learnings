@@ -8,6 +8,8 @@ Below are the notebooks you will find in this repository:
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/Movie%20from%20Images%20Generator.ipynb">Create Videos given set of images</a>
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/Preparing%20inputs%20for%20BucketIterator.ipynb">How to prepare input CSV files for BucketIterator</a>
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/Understanding%20Pytorch%20BucketIterator.ipynb">Understanding how BucketIterator works.</a>
+- <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/TensorboardTutorial.py">Introduction to TensorBoard with Pytorch</a>
+- <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/SimpleGAN.ipynb">Introduction to SimpleGAN</a>
 
 I will try to frequently update the folders as I learn more, I will upload the necessary files such as flat files or images in the "inputs" folder or update the link.
 
