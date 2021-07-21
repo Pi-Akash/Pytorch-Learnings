@@ -10,8 +10,9 @@ Below are the notebooks you will find in this repository:
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/Understanding%20Pytorch%20BucketIterator.ipynb">Understanding how BucketIterator works.</a>
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/TensorboardTutorial.py">Introduction to TensorBoard with Pytorch</a>
 - <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/SimpleGAN.ipynb">Introduction to SimpleGAN</a>
+- <a href = "https://github.com/Pi-Akash/Pytorch-Learnings/blob/main/DCGAN%20using%20Pytorch.ipynb">DCGAN using PyTorch</a>
 
-I will try to frequently update the folders as I learn more, I will upload the necessary files such as flat files or images in the "inputs" folder or update the link.
+I will try to frequently update the folders as I learn more, I will upload the necessary files such as flat files or images in the "inputs"/"Resources" folder or update the link.
 
 The codes are straightforward and, I hope it is easy to understand.
 I would be more than happy if you want to find any issues or want to contribute to these notebooks.
